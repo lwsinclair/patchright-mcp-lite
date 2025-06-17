@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dylangroos-patchright-mcp-lite-badge.png)](https://mseep.ai/app/dylangroos-patchright-mcp-lite)
+
 # Patchright Lite MCP Server
 
 A streamlined Model Context Protocol (MCP) server that wraps the Patchright Node.js SDK to provide stealth browser automation capabilities to AI models. This lightweight server focuses on essential functionality to make it easier for simpler AI models to use.
